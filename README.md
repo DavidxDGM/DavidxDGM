@@ -20,6 +20,6 @@
 <p align="left"> <a href="https://bedrockhub.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/108027726?s=200&v=4" alt="Soon" width="40" height="40"/>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PleederDGM&show_icons=true&locale=en" alt="Pleederdgm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidxdgm&show_icons=true&locale=en" alt="davidxdgm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pleederdgm&" alt="Pleederdgm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidxdgm&" alt="Pleederdgm" /></p>
