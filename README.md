@@ -9,7 +9,7 @@
 <a href="https://discord.gg/9FSsANN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="http://skatic.net" height="30" width="40" /></a>
 
 
-<h3 align="left">History:</h3>
+<h3 align="left"> My History:</h3>
 [2016] GreenNatureMC Moderator
 <p align="left"> <a href="Greennature" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/14999129?v=4" alt="GreenNature" width="40" height="40"/> </a> </p> [2016] OmniNetwork Admin
 <p align="left"> <a href="OmniNetwerk" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/825843393578332160/JaI7ZTCi_400x400.jpg" alt="OmniNetwork" width="40" height="40"/> </a> </p> [2017] DokiaCraft Admin/Creator
