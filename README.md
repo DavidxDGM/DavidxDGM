@@ -11,7 +11,7 @@
 ### My Discord Account
 
 <a href="https://discord.com/users/258225662798594050" target="_blank">
-	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/258225662798594050">
+	<img width="40%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/258225662798594050">
 </a>
 
 <h3 align="left"> My History:</h3>
