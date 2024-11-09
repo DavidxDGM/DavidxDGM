@@ -13,8 +13,6 @@
 <a href="https://discord.com/users/258225662798594050" target="_blank">
 	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/258225662798594050">
 </a>
-<h3 align="left">My Twitter Account:</h3>
-<a href="https://twitter.com/davidxdgm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidxdgm" height="30" width="40" /></a>
 
 <h3 align="left"> My History:</h3>
 [2016 - 2017] GreenNatureMC Moderator
