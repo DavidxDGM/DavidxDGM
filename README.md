@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Gabriel</h1>
+<h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center"></h3>
 
 <p align="left"> <a href="https://twitter.com/davidxdgm" target="blank"><img src="https://img.shields.io/twitter/follow/davidxdgm?logo=twitter&style=for-the-badge" alt="davidxdgm" /></a> </p>
