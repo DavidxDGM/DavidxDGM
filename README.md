@@ -12,6 +12,6 @@
 </a>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidxdgm&show_icons=true&locale=en" alt="davidxdgm" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidxdgm&" alt="davidxdgm" /></p>
