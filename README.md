@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center"></h3>
 
-<p align="left"> <a href="https://twitter.com/davidxdgm" target="blank"><img src="https://img.shields.io/twitter/follow/davidxdgm?logo=twitter&style=for-the-badge" alt="davidxdgm" /></a> </p>
-
-
 <h3 align="left">My Discord Server:</h3>
 <p align="left">
 <a href="https://discord.gg/9FSsANN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="http://skatic.net" height="30" width="40" /></a>
@@ -17,4 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidxdgm&show_icons=true&locale=en" alt="davidxdgm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidxdgm&" alt="Pleederdgm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidxdgm&" alt="davidxdgm" /></p>
